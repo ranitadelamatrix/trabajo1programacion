@@ -1,2 +1,3 @@
-Nombre: - Ernesto Gaston Del Valle Trejo 
-        - Cesar Lucas Martins
+Nombre: Ernesto Gaston Del Valle Trejo 
+Nombre: Cesar Lucas Martins
+Nombre:
